@@ -1469,3 +1469,22 @@ footer .credits a {
   height: 1000px !important;
   border: none !important;
 }
+
+
+.linkedin-badge { /* For linkedin badge on the right */
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 20px;
+}
+
+.more-info { /* For linkedin badge on the right */
+  margin-top: 40px;
+  clear: both;
+}
+
+.invisible-container { /* For linkedin badge on the right */
+  visibility: hidden;
+  height: 0;
+  margin: 0;
+  padding: 0;
+}
