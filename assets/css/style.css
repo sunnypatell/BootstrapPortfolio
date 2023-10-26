@@ -1,10 +1,3 @@
-/**
-* Template Name: DevFolio
-* Updated: Jul 27 2023 with Bootstrap v5.3.1
-* Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
 /*--------------------------------------------------------------
 # General
@@ -1459,4 +1452,20 @@ footer .credits {
 
 footer .credits a {
   color: #fff;
+}
+
+.linkedin-recommendations {
+  margin: 20px 0 !important;
+}
+
+.linkedin-recommendations h2 {
+  font-size: 24px !important;
+  font-weight: bold !important;
+  margin-bottom: 10px !important;
+}
+
+.linkedin-recommendations iframe {
+  width: 100% !important;
+  height: 1000px !important;
+  border: none !important;
 }
