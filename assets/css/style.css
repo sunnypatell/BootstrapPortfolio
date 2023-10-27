@@ -1568,3 +1568,29 @@ footer .credits a {
   border-radius: 10px;
   overflow: hidden;
 }
+
+.resume-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.resume-buttons a {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.5s;
+}
+
+.resume-buttons a:hover {
+  background-color: #0056b3;
+}
+
+.resume-buttons a:focus {
+  outline: none;
+}
