@@ -1,11 +1,11 @@
 **Sunny Patel's Portfolio**
-This is the source code for Sunny Patel's personal portfolio website, featuring information about Sunny's background, skills, and projects. The website is built with HTML, CSS, JS, Bootstrap, PHP, and utilizes Font Awesome and Google Fonts for additional styling.
+This is the source code for Sunny Patel's personal portfolio website, featuring information about Sunny's background, skills, and projects. The website is built with HTML, CSS, JS, Bootstrap, and utilizes Font Awesome and Google Fonts for additional styling.
 
 **Features**
 A header section introducing Sunny and providing a brief overview of their background and skills
-An about section with more detailed information about Sunny and their achievements
+An About section with more detailed information about Sunny and their achievements
 A skills section showcasing Sunny's technical abilities and proficiency with various programming languages
-A projects section highlighting some of Sunny's past projects and their technologies used
+A work and projects section highlighting some of Sunny's past tenures/projects and the technologies used
 A contact section with a form for users to get in touch with Sunny
 Running the code
 To view the website, open the index.html file in a web browser. The website should be fully functional and styled properly.
@@ -21,7 +21,7 @@ For any inquiries or to request a copy of Sunny's resume, please use the contact
 
 **Additional notes**
 The website is designed to be responsive and should work well on a variety of devices with different screen sizes.
-The website utilizes the preconnect link relation to improve performance by establishing early connections to external resources before they are actually needed.
+The website utilizes the pre-connect link relation to improve performance by establishing early connections to external resources before they are actually needed.
 The website also uses the referrerpolicy attribute on external resources to control the value of the Referrer-Policy HTTP header. This helps to protect user privacy by controlling when and how the origin of the request is revealed.
 
 **Future developments**
@@ -34,12 +34,12 @@ Enhancing the design and layout of the website, such as by adding animations or 
 Optimizing the website for search engines by adding relevant keywords and metadata, and ensuring that the website is mobile-friendly and loads quickly.
 
 **Maintenance**
-To ensure that the website remains up-to-date and functional, it is important to regularly review and update the content and code. This can include:
+To ensure that the website remains up-to-date and functional, it is important to review and update the content and code regularly. This can include:
 Updating Sunny's personal information and skills to reflect any new achievements or changes.
 Adding new projects to the projects section as they are completed.
 Checking for and fixing any broken links or other errors that may occur.
 Updating the dependencies to their latest versions to take advantage of any bug fixes or new features.
-Testing the website on different devices and browsers to ensure that it is fully compatible and responsive.
+Testing the website on different devices and browsers to ensure it is fully compatible and responsive.
 Monitoring the website's performance and making any necessary optimizations to improve its speed and reliability.
 
 **Conclusion**
